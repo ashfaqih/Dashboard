@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section id="loginFormContainer" aria-labelledby="login-heading">
+        <h2 id="login-heading">Login</h2><br>
+        <form id="loginForm" aria-describedby="login-instructions">
+            <div>
+                <label for="loginUsername">Username:</label>
+                <input type="text" id="loginUsername" name="loginUsername" required>
+            </div>
+            <div>
+                <label for="loginPassword">Password:</label>
+                <input type="password" id="loginPassword" name="loginPassword" required>
+            </div>
+            <button type="submit">Login</button>
+        </form>
+    </section>
+    <div id="mainContent" role="main">
+        <header>
+            <nav>
+                <div class="nav-container">
+                    <div class="logo-container">
+                        <img src="images/revou.png" alt="Logo" class="logo">
+                        <h1>Team 16 - Jayapura</h1>
+                    </div>
+                    <div class="hamburger" id="hamburger" role="button" aria-label="Toggle navigation">
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                    </div>
+                    <div class="nav-links" id="nav-links">
+                        <a href="#analysis-result" class="nav-item">Analysis Results</a>
+                        <a href="#dashboard" class="nav-item">Dashboard</a>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <main>
+            <section id="main-content">
+                <article id="analysis-result">
+                    <h2>Analysis Result</h2><br>
+                    <div class="result-item">
+                        <h3>A. Main Furniture Analysis</h3>
+                        <canvas id="aovfChart"></canvas>
+                        <h3>B. Segment Analysis</h3>
+                        <div id="chartContainer"></div><br>
+                        <h3>C. Sub-Category Analysis</h3>
+                        <div id="chartContainer2"></div><br>
+                        <h3>D. Region Analysis</h3>
+                        <div id="chartContainer3"></div><br>
+                        <h3>E. Ship Mode Analysis</h3>
+                        <div id="chartContainer4"></div>
+                    </div>
+                </article>
+                <article id="dashboard">
+                    <h2>SUPERSTORE DASHBOARD</h2>
+                    <P>Furniture Business Performance in 2017</P>
+                    <div id="quartersChecklist"></div>
+                    <br>
+                    <div class="chart-container">
+                        <div class="chart-item top-left">
+                            <p>Profit Margin</p>
+                          <canvas id="pfqtptsChart"></canvas>
+                        </div>
+                        <div class="chart-item top-right">
+                            <p>Customer to Transaction Rate</p>
+                          <canvas id="pfqtttcChart"></canvas>
+                        </div>
+                        <div class="chart-item bottom-left">
+                            <p>Average Discount Per Sub Category</p>
+                          <canvas id="scq2017Chart"></canvas>
+                        </div>
+                        <div class="chart-item bottom-right">
+                            <p>Average of Value Per Segment</p>
+                          <canvas id="sq2017Chart"></canvas>
+                        </div>
+                    </div>                                  
+                </article>
+                <article>
+                    <div id="performanceTableContainer">
+                        <table id="performanceTable" class="display">
+                            <caption>Data Category Furniture In 2017</caption>
+                            <thead>
+                                <tr>
+                                    <th>Order ID</th>
+                                    <th>Order Date</th>
+                                    <th>Ship Date</th>
+                                    <th>Ship Mode</th>
+                                    <th>Customer ID</th>
+                                    <th>Segment</th>
+                                    <th>Region</th>
+                                    <th>Sub-Category</th>
+                                    <th>Sales</th>
+                                    <th>Quantity</th>
+                                    <th>Discount</th>
+                                    <th>Profit</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                </article>
+            </section>
+            <aside>
+                <article>
+                    <h3>Welcome Admin</h3><br>
+                    <img src="images/user.png" alt="user">
+                    <p><strong>Nama:</strong> Admin Superstore</p>
+                    <p><strong>Role:</strong> Software Engineer</p><br>
+                </article>
+            </aside>
+        </main>
+        <footer>
+            <div class="footer-content">
+                <section class="about-website">
+                    <h3>About this website</h3>
+                    <p>This website was created by Team 16 - Jayapura <br>to showcase the results of our analysis<br> of the superstore dataset sample.</p>
+                </section>
+                <section class="attachments">
+                    <h3>Attachment</h3>
+                    <ul>
+                        <li><a href="https://docs.google.com/document/d/12eB0UB_lNlpmZDfM8ZNreoBbEFEdJ5jpwYDOEjMTAwM/edit?usp=sharing" class="footer-link">Root Cause Analysis</a></li>
+                        <li><a href="https://docs.google.com/spreadsheets/d/1wHlhikjbPX9j4yjkxMqNkX43OcRvkK3c/edit?usp=sharing&ouid=107167572608023602299&rtpof=true&sd=true" class="footer-link">Data Cleaned</a></li>
+                        <li><a href="https://lookerstudio.google.com/reporting/61d0424c-b8f9-4356-9004-8f8a4745b6d0" class="footer-link">Dashboard</a></li>
+                        <li><a href="https://docs.google.com/document/d/1glH3MTNYyhjX_wcCa_YW5fA5LJO1wphvSYI_q_bz1yY/edit?usp=sharing" class="footer-link">Business Question</a></li>
+                        <li><a href="https://docs.google.com/spreadsheets/d/1kcoNcoeoFwGvSl2jr5hkEjzDCQd71qR02dZVFfDsRVA/edit?usp=sharing" class="footer-link">Data for Analysis</a></li>
+                    </ul>
+                </section>
+            </div><br>
+            <div class="footer-bottom">
+                <address class="footer-left">
+                    <br>© 2024 Team 16 Jayapura
+                </address>
+                <a href="https://github.com/Kampus-Merdeka-Software-Engineering/km-feb24-jayapura-16" target="_blank" class="footer-right">
+                    <br><img src="images/logogithub.png" alt="GitHub Logo">
+                </a>
+            </div>
+        </footer>        
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

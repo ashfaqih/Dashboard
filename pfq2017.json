@@ -1,0 +1,30 @@
+[
+ {
+  "Quarter": "2017-Q1",
+  "Total_Sales": 23723.81,
+  "Total_Profit": 762.37,
+  "Total_Transaction": 73,
+  "Total_Customers": 72
+ },
+ {
+  "Quarter": "2017-Q2",
+  "Total_Sales": 45032.1,
+  "Total_Profit": 1034.58,
+  "Total_Transaction": 124,
+  "Total_Customers": 111
+ },
+ {
+  "Quarter": "2017-Q3",
+  "Total_Sales": 56283.1,
+  "Total_Profit": 2195.55,
+  "Total_Transaction": 142,
+  "Total_Customers": 127
+ },
+ {
+  "Quarter": "2017-Q4",
+  "Total_Sales": 90348.25,
+  "Total_Profit": -974.1,
+  "Total_Transaction": 225,
+  "Total_Customers": 204
+ }
+]

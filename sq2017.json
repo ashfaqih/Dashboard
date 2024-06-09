@@ -1,0 +1,62 @@
+[
+ {
+  "Segment": "Consumer",
+  "Quarter": "Q1",
+  "Average_Order_Value": 359.28
+ },
+ {
+  "Segment": "Consumer",
+  "Quarter": "Q2",
+  "Average_Order_Value": 364.25
+ },
+ {
+  "Segment": "Consumer",
+  "Quarter": "Q3",
+  "Average_Order_Value": 351.63
+ },
+ {
+  "Segment": "Consumer",
+  "Quarter": "Q4",
+  "Average_Order_Value": 392.27
+ },
+ {
+  "Segment": "Corporate",
+  "Quarter": "Q1",
+  "Average_Order_Value": 385.54
+ },
+ {
+  "Segment": "Corporate",
+  "Quarter": "Q2",
+  "Average_Order_Value": 335.41
+ },
+ {
+  "Segment": "Corporate",
+  "Quarter": "Q3",
+  "Average_Order_Value": 520.13
+ },
+ {
+  "Segment": "Corporate",
+  "Quarter": "Q4",
+  "Average_Order_Value": 349.64
+ },
+ {
+  "Segment": "Home Office",
+  "Quarter": "Q1",
+  "Average_Order_Value": 218.8
+ },
+ {
+  "Segment": "Home Office",
+  "Quarter": "Q2",
+  "Average_Order_Value": 410.32
+ },
+ {
+  "Segment": "Home Office",
+  "Quarter": "Q3",
+  "Average_Order_Value": 393.34
+ },
+ {
+  "Segment": "Home Office",
+  "Quarter": "Q4",
+  "Average_Order_Value": 511.79
+ }
+]

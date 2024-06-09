@@ -1,0 +1,82 @@
+[
+ {
+  "Sub_Category": "Bookcases",
+  "Quarter": "2017-Q1",
+  "Average_Discount": 0.16
+ },
+ {
+  "Sub_Category": "Bookcases",
+  "Quarter": "2017-Q2",
+  "Average_Discount": 0.22
+ },
+ {
+  "Sub_Category": "Bookcases",
+  "Quarter": "2017-Q3",
+  "Average_Discount": 0.24
+ },
+ {
+  "Sub_Category": "Bookcases",
+  "Quarter": "2017-Q4",
+  "Average_Discount": 0.23
+ },
+ {
+  "Sub_Category": "Chairs",
+  "Quarter": "2017-Q1",
+  "Average_Discount": 0.16
+ },
+ {
+  "Sub_Category": "Chairs",
+  "Quarter": "2017-Q2",
+  "Average_Discount": 0.17
+ },
+ {
+  "Sub_Category": "Chairs",
+  "Quarter": "2017-Q3",
+  "Average_Discount": 0.17
+ },
+ {
+  "Sub_Category": "Chairs",
+  "Quarter": "2017-Q4",
+  "Average_Discount": 0.17
+ },
+ {
+  "Sub_Category": "Furnishings",
+  "Quarter": "2017-Q1",
+  "Average_Discount": 0.13
+ },
+ {
+  "Sub_Category": "Furnishings",
+  "Quarter": "2017-Q2",
+  "Average_Discount": 0.16
+ },
+ {
+  "Sub_Category": "Furnishings",
+  "Quarter": "2017-Q3",
+  "Average_Discount": 0.1
+ },
+ {
+  "Sub_Category": "Furnishings",
+  "Quarter": "2017-Q4",
+  "Average_Discount": 0.13
+ },
+ {
+  "Sub_Category": "Tables",
+  "Quarter": "2017-Q1",
+  "Average_Discount": 0.27
+ },
+ {
+  "Sub_Category": "Tables",
+  "Quarter": "2017-Q2",
+  "Average_Discount": 0.28
+ },
+ {
+  "Sub_Category": "Tables",
+  "Quarter": "2017-Q3",
+  "Average_Discount": 0.27
+ },
+ {
+  "Sub_Category": "Tables",
+  "Quarter": "2017-Q4",
+  "Average_Discount": 0.26
+ }
+]

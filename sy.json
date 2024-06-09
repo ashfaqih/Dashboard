@@ -1,0 +1,74 @@
+[
+ {
+  "Segment": "Consumer",
+  "Year": 2014,
+  "Total_Profit": 1635.82,
+  "Average_Order_Value": 441.34
+ },
+ {
+  "Segment": "Consumer",
+  "Year": 2015,
+  "Total_Profit": -1322.12,
+  "Average_Order_Value": 499.52
+ },
+ {
+  "Segment": "Consumer",
+  "Year": 2016,
+  "Total_Profit": 4605.06,
+  "Average_Order_Value": 425.26
+ },
+ {
+  "Segment": "Consumer",
+  "Year": 2017,
+  "Total_Profit": 2072.32,
+  "Average_Order_Value": 371.1
+ },
+ {
+  "Segment": "Corporate",
+  "Year": 2014,
+  "Total_Profit": 361.3,
+  "Average_Order_Value": 442.16
+ },
+ {
+  "Segment": "Corporate",
+  "Year": 2015,
+  "Total_Profit": 2966.31,
+  "Average_Order_Value": 389.5
+ },
+ {
+  "Segment": "Corporate",
+  "Year": 2016,
+  "Total_Profit": 3169.6,
+  "Average_Order_Value": 476.92
+ },
+ {
+  "Segment": "Corporate",
+  "Year": 2017,
+  "Total_Profit": 1087.6,
+  "Average_Order_Value": 384.16
+ },
+ {
+  "Segment": "Home Office",
+  "Year": 2014,
+  "Total_Profit": 3460.61,
+  "Average_Order_Value": 464.85
+ },
+ {
+  "Segment": "Home Office",
+  "Year": 2015,
+  "Total_Profit": 1371.01,
+  "Average_Order_Value": 471.05
+ },
+ {
+  "Segment": "Home Office",
+  "Year": 2016,
+  "Total_Profit": -814.71,
+  "Average_Order_Value": 272.81
+ },
+ {
+  "Segment": "Home Office",
+  "Year": 2017,
+  "Total_Profit": -141.53,
+  "Average_Order_Value": 408.01
+ }
+]

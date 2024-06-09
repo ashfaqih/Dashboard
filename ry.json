@@ -1,0 +1,114 @@
+[
+ {
+  "Region": "Central",
+  "Year": 2014,
+  "Persen_Transaksi_Diskon": 0.9,
+  "Total_Profit": -1105.22,
+  "Average_Order_Value": 411.37
+ },
+ {
+  "Region": "Central",
+  "Year": 2015,
+  "Persen_Transaksi_Diskon": 0.78,
+  "Total_Profit": -231.04,
+  "Average_Order_Value": 418.73
+ },
+ {
+  "Region": "Central",
+  "Year": 2016,
+  "Persen_Transaksi_Diskon": 0.77,
+  "Total_Profit": -253.51,
+  "Average_Order_Value": 445.38
+ },
+ {
+  "Region": "Central",
+  "Year": 2017,
+  "Persen_Transaksi_Diskon": 0.8,
+  "Total_Profit": -1281.28,
+  "Average_Order_Value": 359.05
+ },
+ {
+  "Region": "East",
+  "Year": 2014,
+  "Persen_Transaksi_Diskon": 0.8,
+  "Total_Profit": -499.66,
+  "Average_Order_Value": 497.19
+ },
+ {
+  "Region": "East",
+  "Year": 2015,
+  "Persen_Transaksi_Diskon": 0.8,
+  "Total_Profit": -47.41,
+  "Average_Order_Value": 532.85
+ },
+ {
+  "Region": "East",
+  "Year": 2016,
+  "Persen_Transaksi_Diskon": 0.71,
+  "Total_Profit": 1413.11,
+  "Average_Order_Value": 341.08
+ },
+ {
+  "Region": "East",
+  "Year": 2017,
+  "Persen_Transaksi_Diskon": 0.78,
+  "Total_Profit": 2180.12,
+  "Average_Order_Value": 390.09
+ },
+ {
+  "Region": "South",
+  "Year": 2014,
+  "Persen_Transaksi_Diskon": 0.53,
+  "Total_Profit": 4000.58,
+  "Average_Order_Value": 490.33
+ },
+ {
+  "Region": "South",
+  "Year": 2015,
+  "Persen_Transaksi_Diskon": 0.66,
+  "Total_Profit": 208.61,
+  "Average_Order_Value": 395.14
+ },
+ {
+  "Region": "South",
+  "Year": 2016,
+  "Persen_Transaksi_Diskon": 0.49,
+  "Total_Profit": 3146.42,
+  "Average_Order_Value": 382.49
+ },
+ {
+  "Region": "South",
+  "Year": 2017,
+  "Persen_Transaksi_Diskon": 0.75,
+  "Total_Profit": -584.4,
+  "Average_Order_Value": 430.4
+ },
+ {
+  "Region": "West",
+  "Year": 2014,
+  "Persen_Transaksi_Diskon": 0.72,
+  "Total_Profit": 3062.03,
+  "Average_Order_Value": 407.17
+ },
+ {
+  "Region": "West",
+  "Year": 2015,
+  "Persen_Transaksi_Diskon": 0.69,
+  "Total_Profit": 3085.05,
+  "Average_Order_Value": 459.72
+ },
+ {
+  "Region": "West",
+  "Year": 2016,
+  "Persen_Transaksi_Diskon": 0.76,
+  "Total_Profit": 2653.93,
+  "Average_Order_Value": 482.48
+ },
+ {
+  "Region": "West",
+  "Year": 2017,
+  "Persen_Transaksi_Diskon": 0.64,
+  "Total_Profit": 2703.94,
+  "Average_Order_Value": 367.72
+ }
+]

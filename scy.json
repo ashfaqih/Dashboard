@@ -1,0 +1,114 @@
+[
+ {
+  "Sub_Category": "Bookcases",
+  "Year": 2014,
+  "Total_Profit": -346.17,
+  "Average_Discount": 0.21,
+  "Average_Order_Value": 541.53
+ },
+ {
+  "Sub_Category": "Bookcases",
+  "Year": 2015,
+  "Total_Profit": -2755.23,
+  "Average_Discount": 0.23,
+  "Average_Order_Value": 676.2
+ },
+ {
+  "Sub_Category": "Bookcases",
+  "Year": 2016,
+  "Total_Profit": 212.47,
+  "Average_Discount": 0.19,
+  "Average_Order_Value": 486.58
+ },
+ {
+  "Sub_Category": "Bookcases",
+  "Year": 2017,
+  "Total_Profit": -583.63,
+  "Average_Discount": 0.21,
+  "Average_Order_Value": 395.06
+ },
+ {
+  "Sub_Category": "Chairs",
+  "Year": 2014,
+  "Total_Profit": 6955.05,
+  "Average_Discount": 0.17,
+  "Average_Order_Value": 622.92
+ },
+ {
+  "Sub_Category": "Chairs",
+  "Year": 2015,
+  "Total_Profit": 6228.42,
+  "Average_Discount": 0.16,
+  "Average_Order_Value": 592.85
+ },
+ {
+  "Sub_Category": "Chairs",
+  "Year": 2016,
+  "Total_Profit": 5763.15,
+  "Average_Discount": 0.18,
+  "Average_Order_Value": 534.51
+ },
+ {
+  "Sub_Category": "Chairs",
+  "Year": 2017,
+  "Total_Profit": 7643.55,
+  "Average_Discount": 0.17,
+  "Average_Order_Value": 549.16
+ },
+ {
+  "Sub_Category": "Furnishings",
+  "Year": 2014,
+  "Total_Profit": 1972.89,
+  "Average_Discount": 0.15,
+  "Average_Order_Value": 82.3
+ },
+ {
+  "Sub_Category": "Furnishings",
+  "Year": 2015,
+  "Total_Profit": 3051.82,
+  "Average_Discount": 0.14,
+  "Average_Order_Value": 115.88
+ },
+ {
+  "Sub_Category": "Furnishings",
+  "Year": 2016,
+  "Total_Profit": 3935.27,
+  "Average_Discount": 0.14,
+  "Average_Order_Value": 118.61
+ },
+ {
+  "Sub_Category": "Furnishings",
+  "Year": 2017,
+  "Total_Profit": 4099.16,
+  "Average_Discount": 0.13,
+  "Average_Order_Value": 99.02
+ },
+ {
+  "Sub_Category": "Tables",
+  "Year": 2014,
+  "Total_Profit": -3124.04,
+  "Average_Discount": 0.27,
+  "Average_Order_Value": 709.05
+ },
+ {
+  "Sub_Category": "Tables",
+  "Year": 2015,
+  "Total_Profit": -3509.8,
+  "Average_Discount": 0.24,
+  "Average_Order_Value": 699.11
+ },
+ {
+  "Sub_Category": "Tables",
+  "Year": 2016,
+  "Total_Profit": -2950.94,
+  "Average_Discount": 0.27,
+  "Average_Order_Value": 707.36
+ },
+ {
+  "Sub_Category": "Tables",
+  "Year": 2017,
+  "Total_Profit": -8140.69,
+  "Average_Discount": 0.27,
+  "Average_Order_Value": 608.94
+ }
+]

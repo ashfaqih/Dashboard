@@ -1,0 +1,130 @@
+[
+ {
+  "Ship_mode": "First Class",
+  "Year": 2014,
+  "Total_Profit": 1303.3,
+  "Total_Quantity": 251,
+  "Average_Order_Value": 412.57,
+  "ABS": 4
+ },
+ {
+  "Ship_mode": "First Class",
+  "Year": 2015,
+  "Total_Profit": 498.42,
+  "Total_Quantity": 268,
+  "Average_Order_Value": 549.15,
+  "ABS": 6
+ },
+ {
+  "Ship_mode": "First Class",
+  "Year": 2016,
+  "Total_Profit": 747.68,
+  "Total_Quantity": 263,
+  "Average_Order_Value": 360,
+  "ABS": 4
+ },
+ {
+  "Ship_mode": "First Class",
+  "Year": 2017,
+  "Total_Profit": 517.55,
+  "Total_Quantity": 456,
+  "Average_Order_Value": 367.63,
+  "ABS": 4
+ },
+ {
+  "Ship_mode": "Same Day",
+  "Year": 2014,
+  "Total_Profit": 221.85,
+  "Total_Quantity": 72,
+  "Average_Order_Value": 355.87,
+  "ABS": 5
+ },
+ {
+  "Ship_mode": "Same Day",
+  "Year": 2015,
+  "Total_Profit": -411.19,
+  "Total_Quantity": 109,
+  "Average_Order_Value": 478.14,
+  "ABS": 5
+ },
+ {
+  "Ship_mode": "Same Day",
+  "Year": 2016,
+  "Total_Profit": 918.59,
+  "Total_Quantity": 134,
+  "Average_Order_Value": 437.55,
+  "ABS": 5
+ },
+ {
+  "Ship_mode": "Same Day",
+  "Year": 2017,
+  "Total_Profit": 68.11,
+  "Total_Quantity": 138,
+  "Average_Order_Value": 357.4,
+  "ABS": 4
+ },
+ {
+  "Ship_mode": "Second Class",
+  "Year": 2014,
+  "Total_Profit": 2027.73,
+  "Total_Quantity": 370,
+  "Average_Order_Value": 545.37,
+  "ABS": 5
+ },
+ {
+  "Ship_mode": "Second Class",
+  "Year": 2015,
+  "Total_Profit": -829.61,
+  "Total_Quantity": 319,
+  "Average_Order_Value": 454.9,
+  "ABS": 5
+ },
+ {
+  "Ship_mode": "Second Class",
+  "Year": 2016,
+  "Total_Profit": 428.01,
+  "Total_Quantity": 385,
+  "Average_Order_Value": 387.61,
+  "ABS": 4
+ },
+ {
+  "Ship_mode": "Second Class",
+  "Year": 2017,
+  "Total_Profit": 2600.13,
+  "Total_Quantity": 495,
+  "Average_Order_Value": 407.96,
+  "ABS": 4
+ },
+ {
+  "Ship_mode": "Standard Class",
+  "Year": 2014,
+  "Total_Profit": 1904.86,
+  "Total_Quantity": 930,
+  "Average_Order_Value": 423.47,
+  "ABS": 4
+ },
+ {
+  "Ship_mode": "Standard Class",
+  "Year": 2015,
+  "Total_Profit": 3757.59,
+  "Total_Quantity": 1079,
+  "Average_Order_Value": 442.73,
+  "ABS": 5
+ },
+ {
+  "Ship_mode": "Standard Class",
+  "Year": 2016,
+  "Total_Profit": 4865.67,
+  "Total_Quantity": 1411,
+  "Average_Order_Value": 438.2,
+  "ABS": 5
+ },
+ {
+  "Ship_mode": "Standard Class",
+  "Year": 2017,
+  "Total_Profit": -167.4,
+  "Total_Quantity": 1348,
+  "Average_Order_Value": 379.25,
+  "ABS": 4
+ }
+]
